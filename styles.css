@@ -116,6 +116,10 @@ body{
     box-shadow: 0px 2px 8px var(--bright-blue);
 }
 
+.btn-pay:hover{
+    background-color: hsl(245, 75%, 52%, 0.7);
+}
+
 .btn-cancel{
     color: var(--desaturated-blue);
     opacity: 0.7;
